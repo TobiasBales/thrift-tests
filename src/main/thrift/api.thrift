@@ -1,3 +1,5 @@
+namespace java net.prettyrandom.something
+
 struct TestRequest {
     1: optional string uri
 }
