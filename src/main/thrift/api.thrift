@@ -1,4 +1,5 @@
 namespace java net.prettyrandom.something
+namespace js thrift
 
 struct TestRequest {
     1: optional string uri
